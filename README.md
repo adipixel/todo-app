@@ -1,7 +1,7 @@
 # Todo Application
 
 This is a pre-built Todo application using BackboneJS, UnderscoreJS, and jQuery.
-I understood the code and modified it to add new functionalities and new features to the existing code.
+I understood the MV* structure of the code and modified it to add new functionalities and new features to the existing code.
 
 #### Functionalites added
 - Edit todo item
